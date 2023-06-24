@@ -1,0 +1,173 @@
+{
+	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+	"basics": {
+		"name": "Radosław Kołoczek",
+		"label": "Front-end Developer",
+		"image": "",
+		"email": "radoslaw.koloczek@gmail.com",
+		"phone": "579 621 539",
+		"url": "http://radoslawkoloczek.com",
+		"summary": "I am passionate self-taught Frontend Developer with a strong focus on continuous improvement and learning. Started my coding journey in 2020 and have since honed my skills in various technologies. Open-minded and detail-oriented, I believe in delivering high-quality work. Eager to join a collaborative team where I can contribute my enthusiasm and continue to grow both technically and personally.",
+		"location": {
+			"address": "",
+			"postalCode": "",
+			"city": "Bielsko-Biała",
+			"countryCode": "PL",
+			"region": "Sliesia"
+		},
+		"profiles": [
+			{
+				"network": "GitHub",
+				"username": "radoslawkol",
+				"url": "https://github.com/radoslawkol"
+			},
+			{
+				"network": "Linkedin",
+				"username": "radoslawkoloczek",
+				"url": "https://www.linkedin.com/in/radosław-kołoczek/"
+			}
+		]
+	},
+	"work": [
+		{
+			"name": "Smakuj Zdrowo",
+			"location": "Bielsko-Biała",
+			"description": "social project realized within ZWZT",
+			"position": "Web Developer and Team Leader",
+			"url": "https://smakuj-zdrowo.onrender.com",
+			"startDate": "2021-09",
+			"endDate": "2022-04",
+			"summary": "The aim of the project was to encourage people to eat healthy and give them place to search for recipes, which are nutritious and easy to prepare. The project obtained the Brown Wolf Award for the best project at school.",
+			"highlights": [
+				"Leading team and managing tasks in Trello",
+				"Creating a website for our project and improve SEO",
+				"Searching for project partners"
+			]
+		}
+	],
+	"volunteer": [],
+	"education": [
+		{
+			"institution": "VIII Liceum Ogólnokształcące im. Hanny Chrzanowskiej w Bielsku-Białej",
+			"url": "",
+			"area": "",
+			"studyType": "",
+			"startDate": "2019-09",
+			"endDate": "2023-04",
+			"score": "5.21",
+			"courses": []
+		}
+	],
+	"awards": [],
+	"publications": [],
+	"skills": [
+		{
+			"name": "Web Development",
+			"level": "Master",
+			"keywords": [
+				"HTML",
+				"CSS",
+				"Sass",
+				"Javascript",
+				"TypeScript",
+				"React",
+				"Next.js",
+				"Redux",
+				"Node.js",
+				"Express.js",
+				"MongoDB",
+				"Figma"
+			]
+		}
+	],
+	"languages": [
+		{
+			"language": "Polish",
+			"fluency": "Native speaker"
+		},
+		{
+			"language": "English",
+			"fluency": "B2 - intermediate"
+		},
+		{
+			"language": "German",
+			"fluency": "A2 - elementary"
+		}
+	],
+	"interests": [
+		{
+			"name": "Playing the classical guitar",
+			"keywords": []
+		},
+		{
+			"name": "Mountain hiking",
+			"keywords": []
+		}
+	],
+	"references": [],
+	"projects": [
+		{
+			"name": "Clothing Store",
+			"description": "The website provides features like creating an account, writing reviews, finding products, applying discount codes, adding products to the shopping cart and making a purchase payment.",
+			"highlights": [
+				"React",
+				"Next.js",
+				"TailwindCSS",
+				"Redux",
+				"TypeScript",
+				"Express",
+				"MongoDB",
+				"PayPal API"
+			],
+			"keywords": [
+				"React",
+				"Next.js",
+				"TailwindCSS",
+				"Redux",
+				"TypeScript",
+				"Express",
+				"MongoDB",
+				"PayPal API"
+			],
+			"startDate": "2022-09",
+			"endDate": "2022-12",
+			"url": "https://github.com/radoslawkol/clothing-store",
+			"roles": [],
+			"entity": "",
+			"type": "application"
+		},
+		{
+			"name": "BeConnected",
+			"description": "The app enables users to follow friends, share posts, comment and edit personal profile. It also provides communication among users through a chat.",
+			"highlights": [
+				"React",
+				"Sass",
+				"Redux",
+				"Node.js",
+				"Express",
+				"MongoDB",
+				"Socket.IO"
+			],
+			"keywords": [
+				"React",
+				"Sass",
+				"Redux",
+				"Node.js",
+				"Express",
+				"MongoDB",
+				"Socket.IO"
+			],
+			"startDate": "2022-06",
+			"endDate": "2022-07",
+			"url": "https://github.com/radoslawkol/clothing-store",
+			"roles": [],
+			"entity": "",
+			"type": "application"
+		}
+	],
+	"meta": {
+		"canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+		"version": "v1.0.0",
+		"lastModified": "2017-12-24T15:53:00"
+	}
+}
